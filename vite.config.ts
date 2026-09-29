@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/shadow_forge_beyond/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
