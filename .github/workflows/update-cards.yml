@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   sync-database:
-    name: Fetch and Update cards.json & metadata.json
+    name: Fetch and Update cards, metadata & manifest
     runs-on: ubuntu-latest
 
     steps:
@@ -24,13 +24,12 @@ jobs:
         with:
           node-version: 20
 
-      - name: Run Beyond Codex Card & Metadata Sync Script
-        run: node scripts/update-cards.js
+      - name: Run Beyond Codex API Sync Script
+        run: npm run update-cards
 
       - name: Check for database changes
         id: git-check
         run: |
-          git status --porcelain public/data/
           if [ -n "$(git status --porcelain public/data/)" ]; then
             echo "changed=true" >> $GITHUB_OUTPUT
           else
@@ -42,6 +41,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/cards.json public/data/metadata.json
-          git commit -m "chore(database): automated sync of cards.json and metadata.json from Beyond Codex [skip ci]"
+          git add public/data/cards.json public/data/metadata.json public/data/manifest.json
+          git commit -m "chore(database): sync cards and metadata from Beyond Codex [skip ci]"
           git push
