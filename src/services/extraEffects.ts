@@ -66,10 +66,10 @@ export async function loadExtraEffects(): Promise<{
 
   try {
     const [accelRes, crestRes, faithRes, crystalRes] = await Promise.all([
-      fetch('/data/accelerateEffects.json').catch(() => null),
-      fetch('/data/crestEffects.json').catch(() => null),
-      fetch('/data/faithEffects.json').catch(() => null),
-      fetch('/data/crystallizeEffects.json').catch(() => null),
+      fetch(`${import.meta.env.BASE_URL}data/accelerateEffects.json`).catch(() => null),
+      fetch(`${import.meta.env.BASE_URL}data/crestEffects.json`).catch(() => null),
+      fetch(`${import.meta.env.BASE_URL}data/faithEffects.json`).catch(() => null),
+      fetch(`${import.meta.env.BASE_URL}data/crystallizeEffects.json`).catch(() => null),
     ]);
 
     if (accelRes && accelRes.ok) {

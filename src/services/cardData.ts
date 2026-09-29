@@ -265,7 +265,7 @@ export async function fetchCardMetadata(): Promise<DynamicGameMetadata> {
 
   // 1. Try local /data/metadata.json first
   try {
-    const res = await fetch('/data/metadata.json');
+    const res = await fetch(`${import.meta.env.BASE_URL}data/metadata.json`);
     if (res.ok) {
       const meta = await res.json();
       if (meta && meta.classes && meta.sets) {
@@ -364,7 +364,7 @@ export async function fetchCardDatabase(): Promise<{ cards: Card[]; map: Map<str
 
   // 1. Try local /data/cards.json first
   try {
-    const res = await fetch('/data/cards.json');
+    const res = await fetch(`${import.meta.env.BASE_URL}data/cards.json`);
     if (res.ok) {
       const rawList = await res.json();
       if (Array.isArray(rawList) && rawList.length > 0) {
