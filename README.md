@@ -4,6 +4,10 @@ ShadowForge Beyond is an all-in-one companion web application for Shadowverse: W
 
 ---
 
+Live site: https://mashriel.github.io/shadow_forge_beyond/
+
+---
+
 ## Key Features
 
 ### Comprehensive Card Database & Codex
