@@ -1,0 +1,6 @@
+{
+  "name": "ShadowForge Beyond — Shadowverse Worlds Beyond Companion",
+  "description": "All-in-one Shadowverse: Worlds Beyond card database, deckbuilder, collection tracker, crafting planner, and hand tester.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

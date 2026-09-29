@@ -1,0 +1,47 @@
+{
+  "10614120": {
+    "cardId": "10614120",
+    "cardName": "Sathanid, Eld Lance",
+    "faithName": "Faith: Sathanid, Eld Lance",
+    "description": "This faith's value starts at 0.\nWhenever an allied follower evolves, increase this faith's value by 1.",
+    "rawSkillText": "This faith's value starts at 0.\nWhenever an allied follower evolves, increase this faith's value by 1.",
+    "effects": [],
+    "keywords": ["Faith"]
+  },
+  "10624120": {
+    "cardId": "10624120",
+    "cardName": "Yidmetra, Eld Sword",
+    "faithName": "Faith: Yidmetra, Eld Sword",
+    "description": "This faith's value starts at 0.\nWhenever you play an Enhanced card, increase this faith's value by 1.",
+    "rawSkillText": "This faith's value starts at 0.\nWhenever you play an <b><color=Keyword>Enhanced</color></b> card, increase this faith's value by 1.",
+    "effects": [],
+    "keywords": ["Faith", "Enhance"]
+  },
+  "10354110": {
+    "cardId": "10354110",
+    "cardName": "Sham-Nacha, Heir to Entwining",
+    "faithName": "Faith: Sham-Nacha, Heir to Entwining",
+    "description": "This faith's value starts at 0.\nWhenever you select Modes, increase this faith's value by 1.",
+    "rawSkillText": "This faith's value starts at 0.\nWhenever you select <b><color=Keyword>Modes</color></b>, increase this faith's value by 1.",
+    "effects": [],
+    "keywords": ["Faith", "Mode"]
+  },
+  "10664120": {
+    "cardId": "10664120",
+    "cardName": "Lyanthoth, Eld Tome",
+    "faithName": "Faith: Lyanthoth, Eld Tome",
+    "description": "This faith's value starts at 0.\nWhenever an allied amulet is destroyed, increase this faith's value by 1.",
+    "rawSkillText": "This faith's value starts at 0.\nWhenever an allied amulet is destroyed, increase this faith's value by 1.",
+    "effects": [],
+    "keywords": ["Faith"]
+  },
+  "10634120": {
+    "cardId": "10634120",
+    "cardName": "Calge-Danthla, Eld Crystals",
+    "faithName": "Faith: Calge-Danthla, Eld Crystals",
+    "description": "This faith's value starts at 0.\nWhenever an allied Crystalspawn enters the field, increase this faith's value by 1.",
+    "rawSkillText": "This faith's value starts at 0.\nWhenever an allied Crystalspawn enters the field, increase this faith's value by 1.",
+    "effects": [],
+    "keywords": ["Faith"]
+  }
+}

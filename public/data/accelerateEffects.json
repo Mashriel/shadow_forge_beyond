@@ -1,0 +1,52 @@
+{
+  "10901110": {
+    "cardId": "10901110",
+    "cardName": "Jailor of Antiquity",
+    "cost": 1,
+    "name": "Accelerate (1)",
+    "description": "Deal 2 damage to a random enemy follower.",
+    "rawSkillText": "<b><color=Keyword>Accelerate (1)</color></b>: Deal 2 damage to a random enemy follower.",
+    "effects": ["DamageFollower"],
+    "keywords": ["Accelerate"]
+  },
+  "10672110": {
+    "cardId": "10672110",
+    "cardName": "Substandard Puppet",
+    "cost": 3,
+    "name": "Accelerate (3)",
+    "description": "Summon 2 copies of Substandard Puppet.",
+    "rawSkillText": "<b><color=Keyword>Accelerate (3)</color></b>: Summon 2 copies of <b><i><color=Keyword>Substandard Puppet</color></i></b>.",
+    "effects": ["Summon"],
+    "keywords": ["Accelerate", "Substandard Puppet"]
+  },
+  "10671110": {
+    "cardId": "10671110",
+    "cardName": "Shoddy Plaything",
+    "cost": 2,
+    "name": "Accelerate (2)",
+    "description": "Summon a Shoddy Plaything.",
+    "rawSkillText": "<b><color=Keyword>Accelerate (2)</color></b>: Summon a <b><i><color=Keyword>Shoddy Plaything</color></i></b>.",
+    "effects": ["Summon"],
+    "keywords": ["Accelerate", "Shoddy Plaything"]
+  },
+  "10844120": {
+    "cardId": "10844120",
+    "cardName": "Lumiore & Argente, Shining Wings",
+    "cost": 3,
+    "name": "Accelerate (3)",
+    "description": "Gain 1 max play point.",
+    "rawSkillText": "<b><color=Keyword>Accelerate (3)</color></b>: Gain 1 max play point.",
+    "effects": ["Ramp", "PlayPoints", "Overflow"],
+    "keywords": ["Accelerate"]
+  },
+  "10673110": {
+    "cardId": "10673110",
+    "cardName": "Ludicrous Ordnance",
+    "cost": 4,
+    "name": "Accelerate (4)",
+    "description": "Summon a Ludicrous Ordnance.",
+    "rawSkillText": "<b><color=Keyword>Accelerate (4)</color></b>: Summon a <b><i><color=Keyword>Ludicrous Ordnance</color></i></b>.",
+    "effects": ["Summon"],
+    "keywords": ["Accelerate", "Ludicrous Ordnance"]
+  }
+}

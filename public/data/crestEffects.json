@@ -1,0 +1,708 @@
+{
+  "10114110": {
+    "cardId": "10114110",
+    "cardName": "Aria, Lady of the Woods",
+    "crestName": "Crest: Aria, Lady of the Woods",
+    "description": "Whenever an allied Pixie follower enters the field, give it Storm.",
+    "rawSkillText": "Whenever an allied Pixie follower enters the field, give it Storm.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10124130": {
+    "cardId": "10124130",
+    "cardName": "Kagemitsu, Enduring Warrior",
+    "crestName": "Crest: Kagemitsu, Enduring Warrior",
+    "description": "Countdown (2). Last Words: Summon a Kagemitsu, Enduring Warrior.",
+    "rawSkillText": "Countdown (2). Last Words: Summon a Kagemitsu, Enduring Warrior.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10133110": {
+    "cardId": "10133110",
+    "cardName": "Juno, Visionary Alchemist",
+    "crestName": "Crest: Juno, Visionary Alchemist",
+    "description": "Countdown (3). At the end of your turn, Earth Rite (1) - Summon a Guardian Golem.",
+    "rawSkillText": "Countdown (3). At the end of your turn, Earth Rite (1) - Summon a Guardian Golem.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10144110": {
+    "cardId": "10144110",
+    "cardName": "Burnite, Anathema of Flame",
+    "crestName": "Crest: Burnite, Anathema of Flame",
+    "description": "At the start of your turn, deal 1 damage to your leader. Once on each of your turns, when your leader's defense is restored, deal 1 damage to it.",
+    "rawSkillText": "At the start of your turn, deal 1 damage to your leader. Once on each of your turns, when your leader's defense is restored, deal 1 damage to it.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10153140": {
+    "cardId": "10153140",
+    "cardName": "Balto, Dusk Bounty Hunter",
+    "crestName": "Crest: Balto, Dusk Bounty Hunter",
+    "description": "Countdown (4). At the end of your turn, deal 1 damage to both leaders.",
+    "rawSkillText": "Countdown (4). At the end of your turn, deal 1 damage to both leaders.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10163130": {
+    "cardId": "10163130",
+    "cardName": "Lapis, Shining Seraph",
+    "crestName": "Crest: Lapis, Shining Seraph",
+    "description": "Countdown (2). Last Words: Summon a Lapis, Shining Seraph and give it Storm.",
+    "rawSkillText": "Countdown (2). Last Words: Summon a Lapis, Shining Seraph and give it Storm.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10174110": {
+    "cardId": "10174110",
+    "cardName": "Eudie, Maiden Reborn",
+    "crestName": "Crest: Eudie, Maiden Reborn",
+    "description": "Countdown (3). At the end of your turn, if you have 5 cards or less in your hand, draw a card. If you have at least 6, restore 1 defense to your leader.",
+    "rawSkillText": "Countdown (3). At the end of your turn, if you have 5 cards or less in your hand, draw a card. If you have at least 6, restore 1 defense to your leader.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10204120": {
+    "cardId": "10204120",
+    "cardName": "Grimnir, Heavenly Gale",
+    "crestName": "Crest: Grimnir, Heavenly Gale",
+    "description": "At the end of your turn, if there's a super-evolved allied follower on the field, deal 2 damage to all enemy followers.",
+    "rawSkillText": "At the end of your turn, if there's a super-evolved allied follower on the field, deal 2 damage to all enemy followers.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10214110": {
+    "cardId": "10214110",
+    "cardName": "Titania, Queen of Fairies",
+    "crestName": "Crest: Titania, Queen of Fairies",
+    "description": "At the start of your turn, add a Fairy to your hand.",
+    "rawSkillText": "At the start of your turn, add a Fairy to your hand.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10232110": {
+    "cardId": "10232110",
+    "cardName": "Bergent, Rejected Artes",
+    "crestName": "Crest: Bergent, Rejected Artes",
+    "description": "At the start of your turn, summon an Onion Patch.",
+    "rawSkillText": "At the start of your turn, summon an Onion Patch.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10233310": {
+    "cardId": "10233310",
+    "cardName": "Pascale's Dance",
+    "crestName": "Crest: Pascale's Dance",
+    "description": "Countdown (1). At the end of your turn, draw a card. Earth Rite (10) - Double the attack and defense of all allied followers on the field.",
+    "rawSkillText": "Countdown (1). At the end of your turn, draw a card. Earth Rite (10) - Double the attack and defense of all allied followers on the field.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10243110": {
+    "cardId": "10243110",
+    "cardName": "Neptune, Arbiter of Tides",
+    "crestName": "Crest: Neptune, Arbiter of Tides",
+    "description": "Whenever an allied Marine follower enters the field, restore 1 defense to your leader.",
+    "rawSkillText": "Whenever an allied Marine follower enters the field, restore 1 defense to your leader.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10254120": {
+    "cardId": "10254120",
+    "cardName": "Charon, Stygian Oarswoman",
+    "crestName": "Crest: Charon, Stygian Oarswoman",
+    "description": "Countdown (2). At the start of your turn, Reanimate 3.",
+    "rawSkillText": "Countdown (2). At the start of your turn, Reanimate 3.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10263310": {
+    "cardId": "10263310",
+    "cardName": "Maddening Benison",
+    "crestName": "Crest: Maddening Benison",
+    "description": "Countdown (2). Last Words: Deal 10 damage to your leader.",
+    "rawSkillText": "Countdown (2). Last Words: Deal 10 damage to your leader.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10264120": {
+    "cardId": "10264120",
+    "cardName": "Wilbert, Desolate Paladin",
+    "crestName": "Crest: Wilbert, Desolate Paladin",
+    "description": "Whenever an allied follower with Ward enters the field, give it +1/+2.",
+    "rawSkillText": "Whenever an allied follower with Ward enters the field, give it +1/+2.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10304110": {
+    "cardId": "10304110",
+    "cardName": "Mjerrabaine, Great Manifest",
+    "crestName": "Crest: Mjerrabaine, Great Manifest",
+    "description": "When you gain this Crest, replace your deck with a Mjerrabaine Deck and transform the Reaper Card at the bottom of your deck into a Victory Card. At the end of your turn, discard all cards not named Great Testimony and draw 6.",
+    "rawSkillText": "When you gain this Crest, replace your deck with a Mjerrabaine Deck and transform the Reaper Card at the bottom of your deck into a Victory Card. At the end of your turn, discard all cards not named Great Testimony and draw 6.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10314110": {
+    "cardId": "10314110",
+    "cardName": "Krulle, Heir to Unkilling",
+    "crestName": "Crest: Krulle, Heir to Unkilling",
+    "description": "Countdown (2). Whenever an allied follower enters the field, give it -1/-1.",
+    "rawSkillText": "Countdown (2). Whenever an allied follower enters the field, give it -1/-1.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10324120": {
+    "cardId": "10324120",
+    "cardName": "Octrice, Hollowness Manifest",
+    "crestName": "Crest: Octrice, Hollowness Manifest",
+    "description": "Countdown (8). Whenever you play or Fuse a Loot card, advance this crest's count by 1. Last Words: Add a Remnant of Hollowness to your hand.",
+    "rawSkillText": "Countdown (8). Whenever you play or Fuse a Loot card, advance this crest's count by 1. Last Words: Add a Remnant of Hollowness to your hand.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10331310": {
+    "cardId": "10331310",
+    "cardName": "Crystal Gazing",
+    "crestName": "Crest: Crystal Gazing",
+    "description": "Countdown (2). Last Words: Draw 2 cards. Deal 4 damage to all enemy followers.",
+    "rawSkillText": "Countdown (2). Last Words: Draw 2 cards. Deal 4 damage to all enemy followers.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10344120": {
+    "cardId": "10344120",
+    "cardName": "Galmieux, Ardor Manifest",
+    "crestName": "Crest: Galmieux, Ardor Manifest",
+    "description": "Once on each of your turns, when an allied follower takes damage but isn't destroyed, add a Fangs of Ardent Destruction to your hand.",
+    "rawSkillText": "Once on each of your turns, when an allied follower takes damage but isn't destroyed, add a Fangs of Ardent Destruction to your hand.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10361110": {
+    "cardId": "10361110",
+    "cardName": "Devotee of Repose",
+    "crestName": "Crest: Devotee of Repose",
+    "description": "Countdown (4). At the end of your turn, if allied followers didn't attack this turn, give a random allied follower on your field -2/-0 and Ward.",
+    "rawSkillText": "Countdown (4). At the end of your turn, if allied followers didn't attack this turn, give a random allied follower on your field -2/-0 and Ward.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10362110": {
+    "cardId": "10362110",
+    "cardName": "Supplicant of Repose",
+    "crestName": "Crest: Supplicant of Repose",
+    "description": "Countdown (4). At the end of your turn, if allied followers didn't attack this turn, restore 1 defense to your leader.",
+    "rawSkillText": "Countdown (4). At the end of your turn, if allied followers didn't attack this turn, restore 1 defense to your leader.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10363110": {
+    "cardId": "10363110",
+    "cardName": "Congregant of Repose",
+    "crestName": "Crest: Congregant of Repose",
+    "description": "Countdown (4). At the end of your turn, if allied followers didn't attack this turn, draw a follower with 4 defense.",
+    "rawSkillText": "Countdown (4). At the end of your turn, if allied followers didn't attack this turn, draw a follower with 4 defense.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10364110": {
+    "cardId": "10364110",
+    "cardName": "Himeka, Heir to Repose",
+    "crestName": "Crest: Himeka, Heir to Repose",
+    "description": "Countdown (4). At the end of your turn, if there's an allied Himeka, Heir to Repose on the field, give X random enemy followers on the field with 4 attack or less \"Can't attack followers or leaders\" and \"At the end of your turn, banish this card.\" X is the number of Crests you have.",
+    "rawSkillText": "Countdown (4). At the end of your turn, if there's an allied Himeka, Heir to Repose on the field, give X random enemy followers on the field with 4 attack or less \"Can't attack followers or leaders\" and \"At the end of your turn, banish this card.\" X is the number of Crests you have.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10364120": {
+    "cardId": "10364120",
+    "cardName": "Marwynn, Despair Manifest",
+    "crestName": "Crest: Marwynn, Despair Manifest",
+    "description": "At the end of your turn, if allied followers didn't attack this turn, deal X damage split between all enemies, where X is the number of Crests you have.",
+    "rawSkillText": "At the end of your turn, if allied followers didn't attack this turn, deal X damage split between all enemies, where X is the number of Crests you have.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10404110": {
+    "cardId": "10404110",
+    "cardName": "Sandalphon, Primarch Successor",
+    "crestName": "Crest: Sandalphon, Primarch Successor",
+    "description": "Countdown (2). At the end of your turn, restore 1 defense to all allies.",
+    "rawSkillText": "Countdown (2). At the end of your turn, restore 1 defense to all allies.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10412310": {
+    "cardId": "10412310",
+    "cardName": "Starry Sky",
+    "crestName": "Crest: Starry Sky",
+    "description": "Countdown (1). Last Words: Deal 1 damage to the enemy leader. Add a Starry Sky to your hand.",
+    "rawSkillText": "Countdown (1). Last Words: Deal 1 damage to the enemy leader. Add a Starry Sky to your hand.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10414120": {
+    "cardId": "10414120",
+    "cardName": "Yuel & Societte, Dancing Duo",
+    "crestName": "Crest: Yuel & Societte, Dancing Duo",
+    "description": "Countdown (4). Once on each of your turns, when you play a follower, evolve it.",
+    "rawSkillText": "Countdown (4). Once on each of your turns, when you play a follower, evolve it.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10433110": {
+    "cardId": "10433110",
+    "cardName": "Elmott, Remembrance Aflame",
+    "crestName": "Crest: Elmott, Remembrance Aflame",
+    "description": "At the start of your turn, deal 1 damage to the enemy leader.",
+    "rawSkillText": "At the start of your turn, deal 1 damage to the enemy leader.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10434120": {
+    "cardId": "10434120",
+    "cardName": "Cagliostro, Genius Alchemist",
+    "crestName": "Crest: Cagliostro, Genius Alchemist",
+    "description": "At the start of your turn, Earth Rite (1) - Add an Ars Magna to your hand.",
+    "rawSkillText": "At the start of your turn, Earth Rite (1) - Add an Ars Magna to your hand.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10441310": {
+    "cardId": "10441310",
+    "cardName": "Crescent Tube Ride",
+    "crestName": "Crest: Crescent Tube Ride",
+    "description": "Countdown (4). At the end of your turn, give a random allied follower on the field +1/+1.",
+    "rawSkillText": "Countdown (4). At the end of your turn, give a random allied follower on the field +1/+1.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10451310": {
+    "cardId": "10451310",
+    "cardName": "Valiant Edge",
+    "crestName": "Crest: Valiant Edge",
+    "description": "Countdown (2). At the end of your turn, deal 2 damage to a random enemy follower and restore 1 defense to your leader.",
+    "rawSkillText": "Countdown (2). At the end of your turn, deal 2 damage to a random enemy follower and restore 1 defense to your leader.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10453310": {
+    "cardId": "10453310",
+    "cardName": "Corruption",
+    "crestName": "Crest: Corruption",
+    "description": "Countdown (4). At the end of your turn, deal 2 damage to your leader.",
+    "rawSkillText": "Countdown (4). At the end of your turn, deal 2 damage to your leader.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10454120": {
+    "cardId": "10454120",
+    "cardName": "Belial, Archangel of Cunning",
+    "crestName": "Crest: Belial, Archangel of Cunning",
+    "description": "Countdown (4). Last Words: Deal 20 damage to the enemy leader.",
+    "rawSkillText": "Countdown (4). Last Words: Deal 20 damage to the enemy leader.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10474110": {
+    "cardId": "10474110",
+    "cardName": "Lu Woh, Light Personified",
+    "crestName": "Crest: Lu Woh, Light Personified",
+    "description": "Countdown (2). Whenever an enemy follower with Storm attacks a leader, give it -3/-0 until the end of the turn.",
+    "rawSkillText": "Countdown (2). Whenever an enemy follower with Storm attacks a leader, give it -3/-0 until the end of the turn.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10524120": {
+    "cardId": "10524120",
+    "cardName": "Unkei, Goldbloom",
+    "crestName": "Crest: Unkei, Goldbloom",
+    "description": "Countdown (4). At the end of your turn, add a Glittering Gold to your hand.",
+    "rawSkillText": "Countdown (4). At the end of your turn, add a Glittering Gold to your hand.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10532110": {
+    "cardId": "10532110",
+    "cardName": "Insomniac Witch",
+    "crestName": "Crest: Insomniac Witch",
+    "description": "Countdown (2). Last Words: Deal 3 damage to all followers.",
+    "rawSkillText": "Countdown (2). Last Words: Deal 3 damage to all followers.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10534110": {
+    "cardId": "10534110",
+    "cardName": "Lhynkal, Wandering Fool",
+    "crestName": "Crest: Lhynkal, Wandering Fool",
+    "description": "Whenever an allied Lhynkal, Wandering Fool enters the field, reduce the enemy leader's max defense by 2.",
+    "rawSkillText": "Whenever an allied Lhynkal, Wandering Fool enters the field, reduce the enemy leader's max defense by 2.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10544120": {
+    "cardId": "10544120",
+    "cardName": "Yube, Crestpetal",
+    "crestName": "Crest: Yube, Crestpetal",
+    "description": "Whenever an allied Marine follower attacks, give it +1/+0 until the end of the turn and, once on each of your turns, add a Majestic Megalorca to your hand.",
+    "rawSkillText": "Whenever an allied Marine follower attacks, give it +1/+0 until the end of the turn and, once on each of your turns, add a Majestic Megalorca to your hand.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10553310": {
+    "cardId": "10553310",
+    "cardName": "Rigor of the Nightblossom",
+    "crestName": "Crest: Rigor of the Nightblossom",
+    "description": "Countdown (2). At the end of your turn, draw a card. Then, if you have at least 4 cards with the same cost in your hand, summon a Skeleton and give it Ward.",
+    "rawSkillText": "Countdown (2). At the end of your turn, draw a card. Then, if you have at least 4 cards with the same cost in your hand, summon a Skeleton and give it Ward.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10554110": {
+    "cardId": "10554110",
+    "cardName": "Milteo & Luzen",
+    "crestName": "Crest: Milteo & Luzen",
+    "description": "Allied Fanfare and Enhance abilities don't activate. Whenever you play a follower, evolve it.",
+    "rawSkillText": "Allied Fanfare and Enhance abilities don't activate. Whenever you play a follower, evolve it.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10564120": {
+    "cardId": "10564120",
+    "cardName": "Kukishiro, Mistbloom",
+    "crestName": "Crest: Kukishiro, Mistbloom",
+    "description": "During your turn, whenever you draw a 1-, 3-, or 5-cost card, summon a Fox of Purity or Holy Falcon at random. During your turn, whenever you draw a 2-, 4-, or 6-cost card, summon an enemy Fox of Purity or Holy Falcon at random.",
+    "rawSkillText": "During your turn, whenever you draw a 1-, 3-, or 5-cost card, summon a Fox of Purity or Holy Falcon at random. During your turn, whenever you draw a 2-, 4-, or 6-cost card, summon an enemy Fox of Purity or Holy Falcon at random.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10574110": {
+    "cardId": "10574110",
+    "cardName": "Slaus, Revolving Wheel of Fortune",
+    "crestName": "Crest: Slaus, Revolving Wheel of Fortune",
+    "description": "Countdown (3). At the start of your turn, activate a random ability that hasn't been activated yet from the following: 1. Increase the cost of all cards in your hand by 1 until the end of the turn. 2. Give all allied followers on the field -2/-2. 3. Deal 3 damage to your leader.",
+    "rawSkillText": "Countdown (3). At the start of your turn, activate a random ability that hasn't been activated yet from the following: 1. Increase the cost of all cards in your hand by 1 until the end of the turn. 2. Give all allied followers on the field -2/-2. 3. Deal 3 damage to your leader.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10622310": {
+    "cardId": "10622310",
+    "cardName": "Majestic Conquest",
+    "crestName": "Crest: Majestic Conquest",
+    "description": "Countdown (2). Whenever you play an Enhanced card, summon a Fearless Soldier.",
+    "rawSkillText": "Countdown (2). Whenever you play an Enhanced card, summon a Fearless Soldier.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10634110": {
+    "cardId": "10634110",
+    "cardName": "Shymm, Love Bewitched",
+    "crestName": "Crest: Shymm, Love Bewitched",
+    "description": "Whenever an allied Crystalspawn attacks, give it +1/+0.",
+    "rawSkillText": "Whenever an allied Crystalspawn attacks, give it +1/+0.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10712310": {
+    "cardId": "10712310",
+    "cardName": "Minimized Anxiety",
+    "crestName": "Crest: Minimized Anxiety",
+    "description": "Countdown (1). Last Words: Add a Magnified Malice to your hand.",
+    "rawSkillText": "Countdown (1). Last Words: Add a Magnified Malice to your hand.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10713310": {
+    "cardId": "10713310",
+    "cardName": "Magnified Malice",
+    "crestName": "Crest: Magnified Malice",
+    "description": "Countdown (1). Last Words: Add a Minimized Anxiety to your hand.",
+    "rawSkillText": "Countdown (1). Last Words: Add a Minimized Anxiety to your hand.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10714110": {
+    "cardId": "10714110",
+    "cardName": "Thestae, Anathema of Distortion",
+    "crestName": "Crest: Thestae, Anathema of Distortion",
+    "description": "Countdown (3). At the end of your turn, Combo (3) - Give all followers in your deck +1/+1.",
+    "rawSkillText": "Countdown (3). At the end of your turn, Combo (3) - Give all followers in your deck +1/+1.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10724110": {
+    "cardId": "10724110",
+    "cardName": "Gildaria, Anathema of Attunement",
+    "crestName": "Crest: Gildaria, Anathema of Attunement",
+    "description": "Countdown (1). During your turn, whenever an allied follower enters the field, deal 1 damage to the enemy leader.",
+    "rawSkillText": "Countdown (1). During your turn, whenever an allied follower enters the field, deal 1 damage to the enemy leader.",
+    "effects": [],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10734110": {
+    "cardId": "10734110",
+    "cardName": "Lilanthim, Anathema of Predation",
+    "crestName": "Crest: Lilanthim, Anathema of Predation",
+    "description": "Countdown (1). At the end of your opponent's turn, summon a Lilanthim, Anathema of Predation and evolve it.",
+    "rawSkillText": "Countdown (1). At the end of your opponent's turn, summon a Lilanthim, Anathema of Predation and evolve it.",
+    "effects": [
+      "DamageFollower"
+    ],
+    "keywords": [
+      "Crest",
+      "Earth Sigil"
+    ]
+  },
+  "10744110": {
+    "cardId": "10744110",
+    "cardName": "Burnite, Anathema of Ash",
+    "crestName": "Crest: Burnite, Anathema of Ash",
+    "description": "At the start of your turn, deal 2 damage to your leader. Once on each of your turns, when your leader's defense is restored, deal 1 damage to it.",
+    "rawSkillText": "At the start of your turn, deal 2 damage to your leader. Once on each of your turns, when your leader's defense is restored, deal 1 damage to it.",
+    "effects": [
+      "DamageYourLeader"
+    ],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10744120": {
+    "cardId": "10744120",
+    "cardName": "Dragon's Vale Elder",
+    "crestName": "Crest: Dragon's Vale Elder",
+    "countdown": 3,
+    "description": "Countdown (2). At the end of your turn, summon a Vastwing Dragon.",
+    "rawSkillText": "Countdown (2). At the end of your turn, summon a Vastwing Dragon.",
+    "effects": [
+      "Summon"
+    ],
+    "keywords": [
+      "Crest",
+      "Countdown"
+    ]
+  },
+  "10833110": {
+    "cardId": "10833110",
+    "cardName": "Tico, Mysterian Spellcrafter",
+    "crestName": "Crest: Tico, Mysterian Spellcrafter",
+    "description": "Whenever you play a Mysteria spell, deal 1 damage to the enemy leader.",
+    "rawSkillText": "Whenever you play a Mysteria spell, deal 1 damage to the enemy leader.",
+    "effects": [
+      "DamageEnemyLeader",
+      "CostReduction"
+    ],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10841130": {
+    "cardId": "10841130",
+    "cardName": "Spirit of Wadatsumi",
+    "crestName": "Crest: Spirit of Wadatsumi",
+    "description": "Whenever an allied Marine follower enters the field, give it +1/+1.",
+    "rawSkillText": "Whenever an allied Marine follower enters the field, give it +1/+1.",
+    "effects": [
+      "Buff"
+    ],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10844110": {
+    "cardId": "10844110",
+    "cardName": "Drache & Aluzard, Burning Blood",
+    "crestName": "Crest: Drache & Aluzard, Burning Blood",
+    "description": "Countdown (2). Last Words: Add a Drache & Aluzard, Burning Blood to your hand and set its cost to 2.",
+    "rawSkillText": "Countdown (2). Last Words: Add a Drache & Aluzard, Burning Blood to your hand and set its cost to 2.",
+    "effects": [
+      "DamageEnemyLeader",
+      "DamageFollower"
+    ],
+    "keywords": [
+      "Crest",
+      "Overflow"
+    ]
+  },
+  "10864110": {
+    "cardId": "10864110",
+    "cardName": "Verdilia & Castelle, Sisters",
+    "crestName": "Crest: Verdilia & Castelle, Sisters",
+    "description": "Whenever a super-evolved allied follower attacks a follower, give the allied follower \"Can attack 2 times per turn\" until the end of the turn.",
+    "rawSkillText": "Whenever a super-evolved allied follower attacks a follower, give the allied follower \"Can attack 2 times per turn\" until the end of the turn.",
+    "effects": [
+      "HealLeader",
+      "Draw"
+    ],
+    "keywords": [
+      "Crest",
+      "Super-Evolve"
+    ]
+  },
+  "10864120": {
+    "cardId": "10864120",
+    "cardName": "Zoe, Dazzling Hope",
+    "crestName": "Crest: Zoe, Dazzling Hope",
+    "description": "Countdown (1). Last Words: Summon a Zoe, Dazzling Hope and evolve it.",
+    "rawSkillText": "Countdown (1). Last Words: Summon a Zoe, Dazzling Hope and evolve it.",
+    "effects": [
+      "HealLeader",
+      "DamageEnemyLeader"
+    ],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10934110": {
+    "cardId": "10934110",
+    "cardName": "Sephie, Maven Convict",
+    "crestName": "Crest: Sephie, Maven Convict",
+    "description": "Once on each of your turns, when an allied Obsessed Test Subject enters the field, give it Storm.",
+    "rawSkillText": "Once on each of your turns, when an allied Obsessed Test Subject enters the field, give it Storm.",
+    "effects": [
+      "Buff"
+    ],
+    "keywords": [
+      "Crest",
+      "Fuse",
+      "Rush"
+    ]
+  },
+  "10954110": {
+    "cardId": "10954110",
+    "cardName": "Istyndet vs. Mitilykket",
+    "crestName": "Crest: Istyndet vs. Mitilykket",
+    "description": "At the end of your turn, if there's an allied card on the field with Last Words, destroy a random allied card with Last Words and a random enemy follower.",
+    "rawSkillText": "At the end of your turn, if there's an allied card on the field with Last Words, destroy a random allied card with Last Words and a random enemy follower.",
+    "effects": [
+      "DamageFollower"
+    ],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10964110": {
+    "cardId": "10964110",
+    "cardName": "Erralde, Signet Convict",
+    "crestName": "Crest: Erralde, Signet Convict",
+    "description": "At the end of your turn, if there's an allied card on the field with a base cost of 6 or more, deal 1 damage to the enemy leader and restore 1 defense to your leader.",
+    "rawSkillText": "At the end of your turn, if there's an allied card on the field with a base cost of 6 or more, deal 1 damage to the enemy leader and restore 1 defense to your leader.",
+    "effects": [
+      "Destroy"
+    ],
+    "keywords": [
+      "Crest"
+    ]
+  },
+  "10974110": {
+    "cardId": "10974110",
+    "cardName": "Cutthroat, Fluxblade Convict",
+    "crestName": "Crest: Cutthroat, Fluxblade Convict",
+    "description": "Once on each of your turns, when you play a follower, evolve it.",
+    "rawSkillText": "Once on each of your turns, when you play a follower, evolve it.",
+    "effects": [
+      "DamageFollower"
+    ],
+    "keywords": [
+      "Crest"
+    ]
+  }
+}

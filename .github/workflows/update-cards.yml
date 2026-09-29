@@ -1,0 +1,47 @@
+name: Sync Cards and Metadata from Beyond Codex
+
+on:
+  schedule:
+    # Runs every Monday at 04:22 UTC (exactly 2 minutes after SomostVE/beyond_codex refreshes at 04:20 UTC)
+    - cron: '22 4 * * 1'
+  workflow_dispatch:
+    # Allows manual trigger at any time from GitHub Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  sync-database:
+    name: Fetch and Update cards.json & metadata.json
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run Beyond Codex Card & Metadata Sync Script
+        run: node scripts/update-cards.js
+
+      - name: Check for database changes
+        id: git-check
+        run: |
+          git status --porcelain public/data/
+          if [ -n "$(git status --porcelain public/data/)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push updated card database & metadata
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/cards.json public/data/metadata.json
+          git commit -m "chore(database): automated sync of cards.json and metadata.json from Beyond Codex [skip ci]"
+          git push
